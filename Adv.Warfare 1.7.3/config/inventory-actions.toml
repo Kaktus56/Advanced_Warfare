@@ -1,0 +1,25 @@
+#Display a small marker icon on items that the picked up item can be used on. Default: true
+display_valid_action_icon = true
+
+["Block Actions"]
+	#Allow actions involving a block in adventure mode. Default: false
+	allow_block_actions_in_adventure_mode = false
+	#Enable the log stripping action. Default: true
+	enable_inventory_log_stripping = true
+	#Enable the concrete solidifying action. Default: true
+	enable_inventory_concrete_solidifying = true
+	#Enable the pumpkin carving action. Default: true
+	enable_inventory_pumpkin_carving = true
+	#Enable the scraping and removing wax off of copper action. Default: true
+	enable_inventory_waxing_and_scraping = true
+	#Enable the rooted and coarse dirt actions. Default: true
+	enable_inventory_tilling = true
+
+["Item Actions"]
+	#Enable the filling of bottles with water buckets action. Default: true
+	enable_inventory_bottle_filling = true
+	#Enable inserting valid blocks into minecarts. Default: true
+	enable_inventory_minecart_insertion = true
+	#Enable the leather armor dyeing action. Default: true
+	enable_inventory_leather_armor_dyeing = true
+
