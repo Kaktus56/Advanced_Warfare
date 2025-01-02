@@ -1,5 +1,0 @@
-#.
-#Track render distance
-#Range: > -2147483648
-trackRenderDist = 256
-
