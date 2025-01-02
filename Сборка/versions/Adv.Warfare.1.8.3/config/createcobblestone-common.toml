@@ -1,0 +1,39 @@
+
+#.
+#Common settings
+[common]
+	#.
+	#Cobblestone generator stress
+	#stress * rpm = total stress
+	#Range: > -2147483648
+	generatorStress = 8
+	#.
+	#Cobblestone generator ratio
+	#Cobblestone/tick = rpm/ratio
+	#Range: 0.009999999776482582 ~ 3.4028234663852886E38
+	generatorRatio = 8.0
+	#.
+	#Maximum storage of the generators (in items)
+	#Range: > -2147483648
+	maxGeneratorStorage = 256
+
+	#.
+	#Cobblestone generator types
+	#(Requires relaunch)
+	[common.generatorsEnabled]
+		#.
+		#Enable cobblestone generator
+		cobblestoneGeneratorEnabled = true
+		#.
+		#Enable basalt generator
+		basaltGeneratorEnabled = true
+		#.
+		#Enable stone generator
+		stoneGeneratorEnabled = true
+		#.
+		#Enable limestone generator
+		limestoneGeneratorEnabled = true
+		#.
+		#Enable stone generator
+		scoriaGeneratorEnabled = true
+

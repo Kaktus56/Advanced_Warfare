@@ -1,0 +1,12 @@
+{
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:forge": true,
+  "waila:test": false,
+  "vampirism_integrations:plugin": true,
+  "ae2:wthit": true,
+  "shouldersurfing:plugin": true,
+  "waystones:plugin": true
+}

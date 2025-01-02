@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "bruh"
+	group: ""
+	id: "648AC12B6C1D2B89"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "1D22900CFC085D2D"
+		rewards: [{
+			auto: "invisible"
+			icon: "minecraft:oak_door"
+			id: "3DB7EEC23D1094AC"
+			ignore_reward_blocking: true
+			stage: "sus"
+			title: "sus"
+			type: "gamestage"
+		}]
+		tasks: [{
+			id: "10C9D3EE02774610"
+			title: "sus"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -0.5d
+	}]
+	title: "Bruh"
+}
