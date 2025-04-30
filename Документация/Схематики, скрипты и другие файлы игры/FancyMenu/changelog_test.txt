@@ -1,0 +1,17 @@
+Advanced Warfare "1.20.1-1.8.4"
+"BIG F UPDATE"
+
+CHANGELOG:
+
+Начата крупная работа к Альфа-релизу. Создан серверный ресурспак, тестируется FancyMenu, строется PVP арена, и скоро будет обновлена вся карта.
+
+updated mods
+-Create 0.5.1.j
+-Create Big Cannons 5.8.2
+-VS Adition 0.0.10
+
+added mods
+-Create Bibrant vaults 0.2.0
+-Lazy engines 1.2.0
+-Scholar 1.1.5
+-Fast Paintings 1.2.7
